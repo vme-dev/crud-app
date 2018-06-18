@@ -1,5 +1,8 @@
+### `git clone https://github.com/vme-dev/crud-app.git`
 
-### `npm init`
+### `cd crud-app`
+
+### `npm install`
 
 ### `npm start`
 
