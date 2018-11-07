@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './Modal.css';
 
 import { connect } from 'react-redux';
-import {bindActionCreator} from 'redux';
 
 import * as action from "../action.js";
 import WinEdit from "./WinEdit.js";

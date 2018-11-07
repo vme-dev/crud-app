@@ -47,28 +47,6 @@ class CommList extends Component {
     		return <div className="list_wrap">Please wait...</div>;
     		
     	} 
-    	// function deep (obj) {
-    	// 	var arr = [];
-    	// 	if (obj.childComm) { deep(obj.childComm); 
-    	// 	} else {
-	    // 			var a = obj.childComm.map((user) => {
-	    				
-		   //      	return <ListItem  name={user.name} 
-		   //      					text={user.text} 
-		   //      					file={user.file}/> 
-	    // 			})
-	    // 			arr.push(a);
-    	// 	}
-    	// 	return arr
-    	// }
-
-    	// var list = deep(this.props.index.dataList);
-
-    	// var list = this.props.index.dataList.map((user) => {
-	    //     return <ListItem  name={user.name} 
-	    //     					text={user.text} 
-	    //     					file={user.file}/> 
-    	// })
 
 		return (
 			<div className="list_wrap">
